@@ -104,7 +104,7 @@ I welcome discussions, suggestions, and collaborations! Feel free to:
 
 - 🌐 **Website**: [artaasadi.com](https://artaasadi.com)
 - 💼 **LinkedIn**: [Arta Asadi](https://linkedin.com/in/arta-asadi-6677a4a6)
-- 🐦 **Twitter**: [@arta_asd](https://twitter.com/arta_asd)
+- 🐦 **X**: [@arta_asd](https://twitter.com/arta_asd)
 - 📧 **GitHub**: [@artaasd95](https://github.com/artaasd95)
 
 ## 📊 Repository Stats
