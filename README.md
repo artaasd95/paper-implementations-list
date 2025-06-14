@@ -20,42 +20,18 @@ As an AI Engineer and PhD student specializing in artificial intelligence with a
 
 | Paper Title | Repository | Status | Key Techniques |
 |------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
+| [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451) | [📁 MCTS Preference Learning](https://github.com/artaasd95/mcts-preference-learning) | ✅ Complete | MCTS, DPO, Qwen-1.5B |
+| [Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search](https://arxiv.org/abs/2501.01478) | [📁 MCTS Process Supervision](https://github.com/artaasd95/mcts-process-supervision) | ✅ Complete | MCTS, Process Supervision, Qwen3 |
 
-### 📊 Extreme Risk Analysis & Financial AI
-*Advanced methodologies for financial risk assessment and market analysis*
-
-| Paper Title | Repository | Status | Key Techniques |
-|------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
-
-### 🤖 Reinforcement Learning & Decision Making
-*Intelligent agents and autonomous decision-making systems*
+### 📊 Financial AI & Trading
+*Advanced methodologies for financial modeling and trading strategies*
 
 | Paper Title | Repository | Status | Key Techniques |
 |------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
+| [To Hedge or Not to Hedge: Optimal Strategies for Stochastic Trade Flow Management](https://arxiv.org/abs/2503.02496) | [📁 Trade Flow Management](https://github.com/artaasd95/trade-flow-management) | 🔄 In Progress | Riccati Solver, PDE Methods, RL |
+| [Regime-Switching Heston-Hull-White Model](https://arxiv.org/abs/2503.02496) | [📁 Regime-Switching Heston-Hull-White](https://github.com/artaasd95/regime-switching-heston-hullwhite) | ✅ Complete | Stochastic Calculus, Regime Switching |
 
-### 🔍 Retrieval-Augmented Generation (RAG)
-*Enhanced information retrieval and generation systems*
-
-| Paper Title | Repository | Status | Key Techniques |
-|------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
-
-### ⏰ Time Series Analysis & Forecasting
-*Advanced temporal modeling and prediction techniques*
-
-| Paper Title | Repository | Status | Key Techniques |
-|------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
-
-### 🎯 Computer Vision & Multimodal AI
-*Vision-language models and multimodal understanding*
-
-| Paper Title | Repository | Status | Key Techniques |
-|------------|------------|---------|----------------|
-| *Coming Soon...* | - | 🔄 | - |
+> 📝 **Note**: This repository is actively growing! New paper implementations are being added regularly. Check back often for updates or star the repository to stay notified.
 
 ## 📋 Implementation Standards
 
