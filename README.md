@@ -28,6 +28,7 @@ As an AI Engineer and PhD student specializing in artificial intelligence with a
 
 | Paper Title | Repository | Status | Key Techniques |
 |------------|------------|---------|----------------|
+| [Multi-dimensional queue-reactive model and signal-driven models: a unified framework](https://arxiv.org/abs/2506.11843) | [📁 Unified LOB Framework](https://github.com/artaasd95/unified-lob-framework) | ✅ Complete | Markov Generators, MLE, Lyapunov Analysis |
 | [To Hedge or Not to Hedge: Optimal Strategies for Stochastic Trade Flow Management](https://arxiv.org/abs/2503.02496) | [📁 Trade Flow Management](https://github.com/artaasd95/trade-flow-management) | 🔄 In Progress | Riccati Solver, PDE Methods, RL |
 | [Regime-Switching Heston-Hull-White Model](https://arxiv.org/abs/2503.02496) | [📁 Regime-Switching Heston-Hull-White](https://github.com/artaasd95/regime-switching-heston-hullwhite) | ✅ Complete | Stochastic Calculus, Regime Switching |
 
